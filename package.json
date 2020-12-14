@@ -27,7 +27,7 @@
     "name": "brdtheo"
   },
   "bugs": {
-    "url": "https://github.com/brdtheo/bootstrap/issues"
+    "url": "https://github.com/brdtheo/accountsui-bootstrap5/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -37,12 +37,18 @@
   },
   "keywords": [
     "meteor",
-    "meteor-accounts",
-    "meteor login"
+    "meteor accounts",
+    "meteor login",
+    "user accounts",
+    "accounts ui"
   ],
   "license": "ISC",
   "main": "package.js",
   "name": "accountsui-bootstrap5",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/brdtheo/accountsui-bootstrap5.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
