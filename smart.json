@@ -1,0 +1,11 @@
+{
+    "name": "useraccounts-boostrap5",
+    "description": "Accounts Templates styled for Bootstrap 5.",
+    "homepage": "",
+    "author": "Luca Mussi <ing.luca.mussi@gmail.com> (https://github.com/splendido)",
+    "version": "1.0.0",
+    "git": "https://github.com/brdtheo/bootstrap.git",
+    "packages": {
+        "accounts-templates-core": "1.12.0"
+    }
+}
