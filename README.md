@@ -3,12 +3,16 @@ Bring bootstrap 5 beta for Accounts UI, the package that allows you to style the
 
 This package depends on [useraccounts:core](https://atmospherejs.com/useraccounts/core), forked from [this package](https://github.com/meteor-useraccounts/bootstrap/).
 
+## Installation
+```bash
+npm i accountsui-bootstrap5
+```
 
 ## Note
 Bootstrap is not included in this package, so you can add any version you want (CDN/local/npm/yarn).
 
 ##### npm
-```js
+```bash
 npm install bootstrap@next
 ```
 
